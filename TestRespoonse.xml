@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OrderRelease isReleaseAcknowledged="Y" ReleaseNo="1">
+	<Order SellerOrganizationCode="TestSite.com" OrderNo="1400000202" EnterpriseCode="DEFAULT" DocumentType="0001">true</Order>
+	<OrderLine SubLineNo="1222" PrimeLineNo="1">
+	      <Extn ExtnDeliveryNo="0087653754">true</Extn> 
+	</OrderLine>
+</OrderRelease>
